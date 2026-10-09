@@ -57,7 +57,7 @@ La connexion SSH permet de s'authentifier auprès de GitHub pour envoyer et réc
 
 Une phrase secrète peut toutefois être demandée pour déverrouiller la clé privée.
 
-##  Sécurité
+## Sécurité
 
 - Ne jamais publier la clé privée.
 - Protéger la clé privée avec une phrase secrète.
@@ -72,7 +72,7 @@ Une phrase secrète peut toutefois être demandée pour déverrouiller la clé p
 - Gestion de versions : Git
 - Hébergement du code : GitHub
 
-## 🎓 Contexte pédagogique
+## Contexte pédagogique
 
 Projet réalisé dans le cadre de la formation CIEL  
 **Cybersécurité, Informatique et réseaux, Électronique.**
