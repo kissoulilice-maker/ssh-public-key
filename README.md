@@ -1,4 +1,4 @@
-# ssh-public-key-demo
+# ssh-public-key
 
 Projet d'apprentissage de Git, GitHub et de l'authentification SSH.
 
