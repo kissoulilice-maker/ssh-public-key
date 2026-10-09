@@ -1,4 +1,4 @@
-# Projet CIEL — Démonstration SSH avec GitHub
+# Projet CS Cybersecurité — Démonstration SSH avec GitHub
 
 ## Présentation du projet
 
